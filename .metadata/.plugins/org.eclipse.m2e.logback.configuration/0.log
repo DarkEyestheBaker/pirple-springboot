@@ -1,0 +1,14 @@
+2021-03-21 13:53:48,943 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-21 14:10:26,380 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-22 12:21:55,768 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-22 13:04:51,906 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-22 15:41:30,487 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-22 15:57:34,684 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @1110439ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-03-22 15:57:34,940 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.29.v20200521; built: 2020-05-27T11:26:53.365Z; git: 77c232aed8a45c818fd27232278d9f95a021095e; jvm 1.8.0_271-b09
+2021-03-22 15:57:34,965 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-03-22 15:57:34,965 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-03-22 15:57:34,966 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-03-22 15:57:35,000 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@59afa967{/help,null,AVAILABLE}
+2021-03-22 15:57:35,020 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@37711add{HTTP/1.1, (http/1.1)}{127.0.0.1:63248}
+2021-03-22 15:57:35,020 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @1110775ms
+2021-03-22 15:57:35,021 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
