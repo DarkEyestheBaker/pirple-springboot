@@ -1,9 +1,9 @@
-package complexconditional;
+import java.util.Scanner;
 
-import java.util.*;
-public class ComplexConditionalClass { 
-  public static void main(String args[]) { 
-	Scanner reader = new Scanner(System.in);
+public class ComplexCondtional2Class {
+
+	public static void main(String[] args) {
+		Scanner reader = new Scanner(System.in);
 		String input = reader.next();
 		String sOne = "abc";
 		String sTwo = "z";
@@ -12,5 +12,5 @@ public class ComplexConditionalClass {
 		} else {
 			System.out.println("FALSE!");
 		}
-	}  
+	}
 }
