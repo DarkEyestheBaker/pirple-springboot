@@ -7,7 +7,7 @@ public class ComplexCondtional2Class {
 		String input = reader.next();
 		String sOne = "abc";
 		String sTwo = "z";
-		if (input.contains(sOne)) {
+		if (input.contains(sOne)  &&  input.contains(sTwo)) {
 			System.out.println("TRUE!");
 		} else {
 			System.out.println("FALSE!");
